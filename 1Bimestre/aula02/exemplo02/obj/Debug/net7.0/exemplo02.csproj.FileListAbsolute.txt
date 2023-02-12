@@ -1,0 +1,15 @@
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\bin\Debug\net7.0\exemplo02.exe
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\bin\Debug\net7.0\exemplo02.deps.json
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\bin\Debug\net7.0\exemplo02.runtimeconfig.json
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\bin\Debug\net7.0\exemplo02.dll
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\bin\Debug\net7.0\exemplo02.pdb
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\exemplo02.csproj.AssemblyReference.cache
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\exemplo02.AssemblyInfoInputs.cache
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\exemplo02.AssemblyInfo.cs
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\exemplo02.csproj.CoreCompileInputs.cache
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\exemplo02.dll
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\refint\exemplo02.dll
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\exemplo02.pdb
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\exemplo02.genruntimeconfig.cache
+D:\faculdade\2023_1\algoritmo\github\1Bimestre\aula02\exemplo02\obj\Debug\net7.0\ref\exemplo02.dll
